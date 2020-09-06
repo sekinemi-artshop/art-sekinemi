@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP');
+h1{
+    color: rgb(141, 97, 39);
+}
+p{
+    color: rgb(110, 97, 39);
+}
+section{
+    color: rgb(97, 76, 76);
+    font-family:'Noto Serif JP', Verdana,sans-serif ;
+    width: 500px;
+    height: ;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 100px;
+}
+
+html{
+    background-color: rgb(243, 238, 226);
+}
+.containner{
+    background-color:rgb(228, 190, 146) ;
+    display: flex;
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.heart img{
+border-radius:50px ;
+margin-left: auto;
+margin-right: auto;
+width: 500px;
+height: 500px;
+
+}
+.inu img{
+border-radius:50px ;
+margin-left: auto;
+margin-right: auto;
+width: 500px;
+height: 500px;
+}
+.mine h1{
+    font-size:60px ;
+    margin-top: 90px;
+}
+.mine ul{
+    list-style-type: none;
+    display:flex ;
+    margin-bottom: 200px;
+}
+.mine li{
+    margin-right: 30px;
+}
+header{
+    width: auto;
+    height: 400px;
+    background-color: rgb(228, 190, 146);
+    margin: 0px;
+
+}
+body{
+    margin: 0;
+}
+section > h2{
+text-align: center;
+font-size: 50px;
+margin: 100px;
+}
+.icon  img{
+    margin-top: 90px;
+    width: 250px;
+    height: 250px;
+}
